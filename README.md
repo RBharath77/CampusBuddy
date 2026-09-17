@@ -179,6 +179,12 @@ Stores questions that the chatbot could not answer so they can be reviewed later
 - Authentication
 - Cloud deployment
 
+## 🚀 Live Demo
+
+👉 **[Launch CampusBuddy](https://campusbuddy-57r4.onrender.com/)**
+
+Try the CampusBuddy multilingual college FAQ chatbot online.
+
 ## 👨‍💻 Author
 
 **Bharath R**
