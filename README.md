@@ -181,7 +181,7 @@ Stores questions that the chatbot could not answer so they can be reviewed later
 
 ## 👨‍💻 Author
 
-**Vijay**
+**Bharath R**
 
 ## 📄 License
 

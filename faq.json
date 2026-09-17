@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "category": "Admission",
+        "question": "How can I apply for admission?",
+        "keywords": ["admission", "apply", "application", "join college"],
+        "answer": "You can apply for admission through the college admission process. Please contact the admission office for detailed information."
+    },
+    {
+        "id": 2,
+        "category": "Admission",
+        "question": "What documents are required for admission?",
+        "keywords": ["documents", "certificate", "admission documents", "required documents"],
+        "answer": "Common admission documents include academic certificates, identity proof, photographs, and other documents specified by the college."
+    },
+    {
+        "id": 3,
+        "category": "Admission",
+        "question": "What courses are offered?",
+        "keywords": ["courses", "course", "programs", "degree"],
+        "answer": "The college offers various undergraduate and postgraduate programs. Please check the official college information for the current list of courses."
+    },
+    {
+        "id": 4,
+        "category": "Academics",
+        "question": "What are the college timings?",
+        "keywords": ["college timing", "college timings", "working hours", "college time"],
+        "answer": "The college working hours are from 9:00 AM to 4:30 PM."
+    },
+    {
+        "id": 5,
+        "category": "Academics",
+        "question": "What is the attendance requirement?",
+        "keywords": ["attendance", "attendance percentage", "minimum attendance"],
+        "answer": "Students are expected to maintain the minimum attendance percentage specified by the college regulations."
+    },
+    {
+        "id": 6,
+        "category": "Academics",
+        "question": "How can I contact my department?",
+        "keywords": ["department", "hod", "department office", "faculty"],
+        "answer": "You can contact your department office or the concerned faculty member during college working hours."
+    },
+    {
+        "id": 7,
+        "category": "Exams",
+        "question": "When are semester exams conducted?",
+        "keywords": ["exam", "exams", "semester exam", "examination", "semester"],
+        "answer": "Semester examinations are conducted according to the academic calendar released by the college."
+    },
+    {
+        "id": 8,
+        "category": "Exams",
+        "question": "Where can I find the exam timetable?",
+        "keywords": ["exam timetable", "exam schedule", "timetable", "exam date"],
+        "answer": "The examination timetable is generally published by the examination cell through the college's official communication channels."
+    },
+    {
+        "id": 9,
+        "category": "Exams",
+        "question": "What should I bring for the examination?",
+        "keywords": ["exam hall", "exam things", "hall ticket", "examination rules"],
+        "answer": "Students should carry their valid examination hall ticket and any other items permitted according to the examination instructions."
+    },
+    {
+        "id": 10,
+        "category": "Fees",
+        "question": "How can I pay my college fees?",
+        "keywords": ["fees", "fee payment", "pay fees", "college fee"],
+        "answer": "College fees can be paid through the payment methods provided by the college. Please contact the accounts office for current payment details."
+    },
+    {
+        "id": 11,
+        "category": "Fees",
+        "question": "Can I pay fees online?",
+        "keywords": ["online fees", "online payment", "online fee", "pay online"],
+        "answer": "Online fee payment may be available through the college's designated payment portal."
+    },
+    {
+        "id": 12,
+        "category": "Fees",
+        "question": "Where can I get fee details?",
+        "keywords": ["fee details", "fees details", "fee structure", "fees structure"],
+        "answer": "You can obtain the latest fee structure from the college accounts or admission office."
+    },
+    {
+        "id": 13,
+        "category": "Hostel",
+        "question": "What hostel facilities are available?",
+        "keywords": ["hostel", "hostel facility", "hostel facilities", "accommodation"],
+        "answer": "The college hostel provides accommodation and basic student facilities. Contact the hostel office for current availability."
+    },
+    {
+        "id": 14,
+        "category": "Hostel",
+        "question": "How can I apply for hostel accommodation?",
+        "keywords": ["hostel application", "apply hostel", "hostel admission", "hostel join"],
+        "answer": "Students can apply for hostel accommodation through the hostel office according to the college hostel admission procedure."
+    },
+    {
+        "id": 15,
+        "category": "Hostel",
+        "question": "What are the hostel timings?",
+        "keywords": ["hostel timing", "hostel timings", "hostel entry", "hostel time"],
+        "answer": "Hostel entry and exit timings are based on the rules set by the college hostel administration."
+    },
+    {
+        "id": 16,
+        "category": "Library",
+        "question": "What is the library timing?",
+        "keywords": ["library", "library timing", "library timings", "library hours"],
+        "answer": "The library is open from 8:30 AM to 5:30 PM on working days."
+    },
+    {
+        "id": 17,
+        "category": "Library",
+        "question": "How many books can I borrow?",
+        "keywords": ["borrow books", "books", "library books", "book limit"],
+        "answer": "The number of books students can borrow depends on the library rules and their student category."
+    },
+    {
+        "id": 18,
+        "category": "Library",
+        "question": "How can I get a library card?",
+        "keywords": ["library card", "library membership", "membership", "library id"],
+        "answer": "Students can obtain library membership through the college library by following the required registration procedure."
+    },
+    {
+        "id": 19,
+        "category": "Placement",
+        "question": "How can I get placement information?",
+        "keywords": ["placement", "placements", "job", "company", "campus placement"],
+        "answer": "Placement-related information is provided by the college placement cell. Students can contact the placement office for current opportunities."
+    },
+    {
+        "id": 20,
+        "category": "Placement",
+        "question": "Which companies visit the college?",
+        "keywords": ["companies", "company", "recruiters", "companies visit"],
+        "answer": "Companies visiting the campus vary each year depending on placement opportunities and recruitment requirements."
+    },
+    {
+        "id": 21,
+        "category": "Placement",
+        "question": "How can I register for placements?",
+        "keywords": ["placement registration", "register placement", "placement apply"],
+        "answer": "Students can register for placement activities through the placement cell according to the instructions provided by the college."
+    },
+    {
+        "id": 22,
+        "category": "Transport",
+        "question": "Does the college provide bus facilities?",
+        "keywords": ["bus", "college bus", "transport", "transportation"],
+        "answer": "College transportation facilities may be available on selected routes. Please contact the transport office for current route and timing details."
+    },
+    {
+        "id": 23,
+        "category": "Transport",
+        "question": "Where can I find bus timings?",
+        "keywords": ["bus timing", "bus timings", "transport timing", "bus schedule"],
+        "answer": "Current bus routes and timings can be obtained from the college transport office."
+    },
+    {
+        "id": 24,
+        "category": "Transport",
+        "question": "How can I apply for college bus?",
+        "keywords": ["apply bus", "bus registration", "transport registration", "bus pass"],
+        "answer": "Students can register for college transportation through the transport office according to the available routes."
+    },
+    {
+        "id": 25,
+        "category": "General",
+        "question": "How can I contact the college?",
+        "keywords": ["contact", "phone", "email", "office", "college contact"],
+        "answer": "You can contact the college office during official working hours for assistance."
+    },
+    {
+        "id": 26,
+        "category": "General",
+        "question": "What are the college working hours?",
+        "keywords": ["working hours", "office hours", "college hours", "office timing"],
+        "answer": "The general college office working hours are from 9:00 AM to 4:30 PM."
+    }
+]
